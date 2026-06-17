@@ -1,0 +1,66 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sk Mustak Ali
+    - name: Position
+      value: Researcher, Experimental Nuclear Astrophysics
+    - name: Affiliation
+      value: Saha Institute of Nuclear Physics (SINP), Kolkata
+    - name: Email
+      value: mustak.ali@saha.ac.in
+    - name: Research
+      value: Nuclear reactions, detector development, R-matrix analysis, nuclear astrophysics
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D., Physics
+      institution: Bose Institute, Kolkata (degree awarded by University of Calcutta)
+      year: 2016 - 2023
+      description:
+        - Nuclear reactions relevant to the Cosmological Lithium Problem
+        - Experiments performed at ISOLDE, CERN under Prof. Dhruba Gupta
+    - title: M.Sc., Physics
+      institution: Bose Institute, Kolkata (University of Calcutta)
+      year: 2014 - 2016
+    - title: B.Sc., Physics
+      institution: Scottish Church College, Kolkata (University of Calcutta)
+      year: 2011 - 2014
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher
+      institution: Saha Institute of Nuclear Physics (SINP), Kolkata
+      year: 2026 - Present
+      description:
+        - Development of a charged-particle detector array for nuclear astrophysics
+        - Sub-Coulomb alpha-transfer reaction measurements
+    - title: Postdoctoral Research Associate
+      institution: Cyclotron Institute, Texas A&M University
+      year: 2025 - 2026
+      description:
+        - Low-energy nuclear physics and nuclear astrophysics (group of Prof. Grigory Rogachev)
+    - title: Postdoctoral Research Associate
+      institution: Facility for Rare Isotope Beams (FRIB), Michigan State University
+      year: 2023 - 2025
+      description:
+        - Spin-isospin response of nuclei via charge-exchange reactions (group of Prof. Remco Zegers)
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Nuclear Astrophysics
+      items:
+        - Primordial and stellar nucleosynthesis; the Cosmological Lithium Problem
+        - Explosive nucleosynthesis and the rp-process
+    - title: Experimental Techniques
+      items:
+        - Transfer and elastic scattering reactions; alpha-transfer ANC extraction
+        - Silicon-detector array development; R-matrix analysis (AZURE2); DWBA (FRESCO)
+
+- title: Technical Skills
+  type: list
+  contents:
+    - ROOT / C++, NPTool / Geant4, Python, AZURE2, FRESCO, Linux
