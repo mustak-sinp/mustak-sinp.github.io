@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-nav: true
-nav_order: 1
 subtitle: Experimental Nuclear Astrophysicist · <a href='https://www.saha.ac.in/'>Saha Institute of Nuclear Physics</a>, Kolkata
 
 profile:
