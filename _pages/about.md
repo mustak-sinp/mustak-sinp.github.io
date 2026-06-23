@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Saha Institute of Nuclear Physics</p>
-    <p>1/AF Bidhannagar, Kolkata 700064</p>
+    <p>1/AF Bidhannagar</p>
+    <p>Kolkata 700064</p>
     <p>West Bengal, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
