@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the **Saha Institute of Nuclear Physics (SINP)**, Kolkata as an associate professor.
+Joined **Saha Institute of Nuclear Physics (SINP)**, Kolkata as an associate professor.
