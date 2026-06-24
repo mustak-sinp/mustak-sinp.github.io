@@ -7,7 +7,7 @@ subtitle: Associate Professor-E · <a href='https://www.saha.ac.in/'>Saha Instit
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Saha Institute of Nuclear Physics</p>
     <p>1/AF Bidhannagar</p>
@@ -28,10 +28,11 @@ latest_posts:
   limit: 3
 ---
 
-Welcome! 
-I am an associate professor at the [Saha Institute of Nuclear Physics (SINP)](https://www.saha.ac.in/), Kolkata. I work in the field of experimental nuclear physics and nuclear astrophysics.
+Welcome!
 
-I did my postdoctoral research in the USA. I was a postdoctoral research associate at the [Cyclotron Institute](https://cyclotron.tamu.edu/), [Texas A&M University](https://www.tamu.edu/), working with the low-energy nuclear physics and nuclear astrophysics group led by [Prof. Grigory Rogachev](https://artsci.tamu.edu/physics-astronomy/contact/profiles/grigory-rogachev.html). Before that I was a postdoctoral associate at the [Facility for Rare Isotope Beams (FRIB)](https://frib.msu.edu/), [Michigan State University](https://msu.edu/), in the [Charge-Exchange group](https://www.remcozegers.com/group) led by [Prof. Remco Zegers](https://www.remcozegers.com/), where I studied the spin-isospin response of nuclei via charge-exchange reactions and their astrophysical applications.
-I completed my Ph.D. at [Bose Institute](http://www.jcbose.ac.in/home), Kolkata, with [Prof. Dhruba Gupta](https://sites.google.com/view/dhrubagupta/home), studying nuclear reactions relevant to the Cosmological Lithium Problem with experiments performed at [ISOLDE](https://home.cern/science/experiments/isolde), [CERN](https://home.cern/).
+I am an associate professor at the [Saha Institute of Nuclear Physics (SINP)](https://www.saha.ac.in/), Kolkata. Broadly my research areas are experimental nuclear physics and nuclear astrophysics.
+
+Before joining SINP, I did my postdoctoral research in the USA. I was as a postdoctoral research associate at  the [Facility for Rare Isotope Beams (FRIB)](https://frib.msu.edu/), [Michigan State University](https://msu.edu/), in the [Charge-Exchange group](https://www.remcozegers.com/group) and at the [Cyclotron Institute](https://cyclotron.tamu.edu/), [Texas A&M University](https://www.tamu.edu/), working with the low-energy nuclear physics and nuclear astrophysics. I completed my Ph.D. at [Bose Institute](http://www.jcbose.ac.in/home), Kolkata, working with the [Nuclear Astrophysics](https://sites.google.com/view/dhrubagupta/home) group, my thesis experiments were performed at [ISOLDE](https://home.cern/science/experiments/isolde), [CERN](https://home.cern/).
+
 
 Feel free to browse my [research](/research/) interests, [publications](/publications/) or [reach out](/contact/).
