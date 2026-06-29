@@ -30,7 +30,7 @@ latest_posts:
 
 Welcome!
 
-I am an associate professor at the [Saha Institute of Nuclear Physics (SINP)](https://www.saha.ac.in/), Kolkata. Broadly my research areas are experimental nuclear physics and nuclear astrophysics.
+I work in the field of experimental nuclear physics and nuclear astrophysics. My research focuses on studying nuclear reactions with astrophysical significance at accelerator facilities around the world. At present, I am an associate professor at the [Saha Institute of Nuclear Physics (SINP)](https://www.saha.ac.in/), Kolkata. 
 
 Before joining SINP, I did my postdoctoral research in the USA. I was as a postdoctoral research associate at  the [Facility for Rare Isotope Beams (FRIB)](https://frib.msu.edu/), [Michigan State University](https://msu.edu/), in the [Charge-Exchange group](https://www.remcozegers.com/group) and at the [Cyclotron Institute](https://cyclotron.tamu.edu/), [Texas A&M University](https://www.tamu.edu/), working with the [low-energy experimental nuclear physics and nuclear astrophysics](https://artsci.tamu.edu/physics-astronomy/contact/profiles/grigory-rogachev.html) group. I completed my Ph.D. at [Bose Institute](http://www.jcbose.ac.in/home), Kolkata, working with the [Nuclear Astrophysics](https://sites.google.com/view/dhrubagupta/home) group, my thesis experiments were performed at [ISOLDE](https://home.cern/science/experiments/isolde), [CERN](https://home.cern/).
 
