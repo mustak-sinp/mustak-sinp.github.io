@@ -19,6 +19,19 @@ nav_order: 4
 <ul class="conf-list">
 
 <li>
+<strong><a href="https://sites.google.com/view/spagcons2026/home" target="_blank">Symposium on Particle–Gamma Coincidence Techniques in Nuclear Science (SPaGCoNS 2026)</a></strong><br>
+<span class="conf-venue">IIT ISM Dhanbad, Jharkhand, India</span><br>
+<span class="conf-date">July 13–15, 2024</span>
+<div class="conf-contrib"><em>Talk:</em> The (<sup>10</sup>Be,<sup>10</sup>B+γ) Charge-Exchange Reaction as a Probe of Isovector Excitations</div>
+</li>
+
+<li>
+<strong><a href="https://sites.google.com/tamu.edu/astrae/home" target="_blank"> Mini-School on Astrophysical Reactions</a></strong><br>
+<span class="conf-venue">Texas A&M University, USA</span><br>
+<span class="conf-date">February 16–20, 2026</span>
+</li>
+
+<li>
 <strong><a href="https://web.mit.edu/dnp2024/" target="_blank">2024 Fall Meeting of the APS Division of Nuclear Physics</a></strong><br>
 <span class="conf-venue">Boston, USA</span><br>
 <span class="conf-date">October 6–10, 2024</span>
