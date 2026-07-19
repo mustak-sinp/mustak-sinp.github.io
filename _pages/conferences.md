@@ -21,7 +21,7 @@ nav_order: 4
 <li>
 <strong><a href="https://sites.google.com/view/spagcons2026/home" target="_blank">Symposium on Particle–Gamma Coincidence Techniques in Nuclear Science (SPaGCoNS 2026)</a></strong><br>
 <span class="conf-venue">IIT ISM Dhanbad, Jharkhand, India</span><br>
-<span class="conf-date">July 13–15, 2024</span>
+<span class="conf-date">July 13–15, 2026</span>
 <div class="conf-contrib"><em>Talk:</em> The (<sup>10</sup>Be,<sup>10</sup>B+γ) Charge-Exchange Reaction as a Probe of Isovector Excitations</div>
 </li>
 
