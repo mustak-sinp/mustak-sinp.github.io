@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-description: Moments from conferences, labs, and beamtimes.
+description: Around the world with nuclear physics...
 nav: true
 nav_order: 8
 ---
