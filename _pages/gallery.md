@@ -51,7 +51,6 @@ nav_order: 8
       <img src="{{ thumb | relative_url }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="{{ label }}">
       <div class="card-body">
         <h5 class="card-title mb-1">{{ label }}</h5>
-        <p class="card-text small">{{ count }} photos</p>
       </div>
     </a>
   </div>
@@ -83,6 +82,16 @@ nav_order: 8
   </div>
 </div>
 {% endfor %}
+
+<style>
+  /* Uniform thumbnails inside album photo grids */
+  .album-section .row .col img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+  }
+</style>
 
 <script>
   function openAlbum(name) {
