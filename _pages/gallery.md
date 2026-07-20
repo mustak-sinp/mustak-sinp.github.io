@@ -9,6 +9,13 @@ nav_order: 8
 
 {% assign gallery_files = site.static_files | where_exp: "file", "file.path contains 'assets/img/gallery/'" %}
 
+{% comment %}
+  Custom album titles. Format: folder_name:Display Title
+  Separate entries with a semicolon. Albums not listed here fall back
+  to the automatic name (folder minus year, underscores as spaces).
+{% endcomment %}
+{% assign label_overrides = "2026_IIT_ISM_Dhanbad:Dhanbad" | split: ";" %}
+
 {% assign folders = "" | split: "" %}
 {% for file in gallery_files %}
   {% assign rel = file.path | split: "assets/img/gallery/" | last %}
@@ -35,6 +42,10 @@ nav_order: 8
   {% if count > 0 %}
   {% assign yr = folder | split: "_" | first %}
   {% assign label = folder | remove_first: yr | remove_first: "_" | replace: "_", " " %}
+  {% for override in label_overrides %}
+    {% assign pair = override | split: ":" %}
+    {% if pair[0] == folder %}{% assign label = pair[1] %}{% endif %}
+  {% endfor %}
   <div class="col">
     <a href="#{{ folder }}" class="album-card card h-100" data-album="{{ folder }}" style="text-decoration: none;">
       <img src="{{ thumb | relative_url }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="{{ label }}">
@@ -52,6 +63,10 @@ nav_order: 8
 {% for folder in folders %}
 {% assign yr = folder | split: "_" | first %}
 {% assign label = folder | remove_first: yr | remove_first: "_" | replace: "_", " " %}
+{% for override in label_overrides %}
+  {% assign pair = override | split: ":" %}
+  {% if pair[0] == folder %}{% assign label = pair[1] %}{% endif %}
+{% endfor %}
 <div class="album-section" id="album-{{ folder }}" style="display: none;">
   <p><a href="#" class="back-link">&larr; back to albums</a></p>
   <h2>{{ label }}</h2>
