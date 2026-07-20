@@ -39,7 +39,7 @@ nav_order: 8
     <a href="#{{ folder }}" class="album-card card h-100" data-album="{{ folder }}" style="text-decoration: none;">
       <img src="{{ thumb | relative_url }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="{{ label }}">
       <div class="card-body">
-        <h5 class="card-title mb-1">{{ label }} ({{ yr }})</h5>
+        <h5 class="card-title mb-1">{{ label }}</h5>
         <p class="card-text small">{{ count }} photos</p>
       </div>
     </a>
@@ -54,7 +54,7 @@ nav_order: 8
 {% assign label = folder | remove_first: yr | remove_first: "_" | replace: "_", " " %}
 <div class="album-section" id="album-{{ folder }}" style="display: none;">
   <p><a href="#" class="back-link">&larr; back to albums</a></p>
-  <h2>{{ label }} ({{ yr }})</h2>
+  <h2>{{ label }}</h2>
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
     {% for file in gallery_files %}
       {% assign ext = file.extname | downcase %}
