@@ -20,6 +20,7 @@ nav_order: 6
 - [JINA-CEE Scientific Resources](https://www.jinaweb.org/science-research/scientific-resources)
 - [LISE++](https://lise.nscl.msu.edu/lise.html)
 - [Reaction Codes](https://sites.google.com/view/opticalpotentials/reaction-codes)
+- [Computer Physics Communications](https://data.mendeley.com/journal/00104655?CPC)
 - [Nuclear Reactions Video Project (NRV)](https://nrv2.jinr.ru/)
 - [CERN-ROOT](https://root.cern.ch/)
 - [CERN-Geant4](https://geant4.web.cern.ch/)
