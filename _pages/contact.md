@@ -17,6 +17,10 @@ West Bengal, India
 
 Email: [mustak.ali@saha.ac.in](mailto:mustak.ali@saha.ac.in), [mustak.sinp@gmail.com](mailto:mustak.sinp@gmail.com)
 
+### Prospective Students
+
+Students interested in **summer projects, semester-long projects, year-long projects, or Master's thesis projects** in nuclear astrophysics are welcome to contact me by email.
+
 Find me on [ORCID](https://orcid.org/0000-0002-1018-5307), [Google Scholar](https://scholar.google.com/citations?user=VN8HtMgAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sk-Mustak-Ali), and [LinkedIn](https://www.linkedin.com/in/sk-mustak-ali/).
 
 <div class="row mt-4">
