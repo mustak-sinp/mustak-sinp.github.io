@@ -342,8 +342,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Ali]
-  first_name: [Sk M., Sk Mustak, Sk M, Sk. M.]
-
+  first_name: [Sk M., Sk Mustak, Sk. Mustak, Sk M, Sk. M.]
   style: apa
   locale: en
 
