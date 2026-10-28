@@ -7,4 +7,4 @@ nav: true
 nav_order: 7
 ---
 
-Students interested in summer projects, semester-long projects, year-long projects, or Master’s thesis projects in nuclear astrophysics are welcome to [contact me](/contact/) by email.
+I am inviting applications from **two students** interested in pursuing their **BS-MS thesis in Nuclear Astrophysics** at the Saha Institute of Nuclear Physics (SINP), Kolkata, during **January–October 2027**. Interested students may contact me for further details. See the [official SINP announcement](https://www.saha.ac.in/web/sinp-recent-news?id=962&news_id=341) for programme information.
